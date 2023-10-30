@@ -1,0 +1,9 @@
+{
+  "packageRules":[
+     {
+      "matchCurrentAge": "< 2 years",
+      "groupName": "latest"
+    }
+  ],
+  "prHourlyLimit": 99
+}
